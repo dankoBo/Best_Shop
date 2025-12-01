@@ -1,0 +1,31 @@
+@use './styles/variables.scss';
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    max-width: variables.$page-width;
+    margin: 0 auto;
+    padding: 48px 0;
+}
+
+img { 
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    color: variables.$color-black-1;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+}
