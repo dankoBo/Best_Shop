@@ -1,0 +1,35 @@
+// COLORS
+$color-black-1: #000;
+$color-black-1-35: rgb(0 0 0 / 35%);
+$color-black-1-90: rgb(0 0 0 / 90%);
+$color-gray-1: #504e4a;
+$color-gray-2: #727174;
+$color-gray-3: #E7E8E9;
+$color-gray-4: #e9e9ed;
+$color-gray-5: #707070;
+$color-magenta: #B92770;
+$color-magenta-hover: #D93A8C;
+$color-white: #fff;
+$color-green: #28a745;
+$color-white-95: rgb(255 255 255 / 95%);
+$box-shadow-color: rgb(193 199 212 / 70%);
+
+// WIDTH
+$page-width: 1800px;
+$container-width: 1300px;
+
+// SHADOW
+$box-shadow: 0px 0px 13px 7px $box-shadow-color;
+
+// MARGIN
+$section-margin-top: 50px;
+$section-items-top: 30px;
+
+// BORDER-RADIUS
+$border-radius-1: 6px;
+
+// BREAKPOINTS
+$breakpoint-sm: 768px;
+$breakpoint-md: 1024px;
+$breakpoint-dt: 1300px;
+$breakpoint-lg: 1440px;
